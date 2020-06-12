@@ -1,0 +1,20 @@
+Name: Blin
+
+Age: 23
+
+College: UPES 
+
+Qualification: B.Tech(EEE)
+
+Languages:
+1) Ruby
+2) C
+3) Python
+4) HTML
+5) C++
+
+Strengths:
+1) Attitude
+2) Punctuality
+
+

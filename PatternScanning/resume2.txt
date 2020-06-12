@@ -1,0 +1,19 @@
+Name: Olofmeister
+
+Age: 22
+
+College: DSU
+
+Qualification: B.Tech(ECE)
+
+Languages:
+1) Java
+2) SQL
+3) Python
+4) HTML
+5) C
+
+Strengths:
+1) TeamWork
+2) Creativity
+3) Judgement

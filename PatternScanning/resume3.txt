@@ -1,0 +1,20 @@
+Name: Manasi
+
+Age: 21
+
+College: PESU
+
+Qualification: B.Tech(CSE)
+
+Skills
+1) C
+2) Python
+3) Swift
+4) Ruby
+5) Python
+6) HTML
+
+Strengths:
+1) TeamWork
+2) Creativity
+3) ProjectManagement

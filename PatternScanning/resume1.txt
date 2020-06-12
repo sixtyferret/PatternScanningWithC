@@ -1,0 +1,23 @@
+Name: Harsh
+
+Age: 21
+
+College: PESU
+
+Qualification: B.Tech(CSE)
+
+Languages:
+1) C
+2) Python
+3) Ruby
+4) HTML
+5) Java
+6) Swift
+7) C++
+8) SQL
+
+Strengths:
+1) ProjectManagement
+2) TeamWork
+3) Leadership
+
